@@ -1,3 +1,4 @@
+//MINIMAL SUBSCRIBE LeonGanz
 import { ChatGPTAPI } from "chatgpt";
 import dotenv from "dotenv";
 import { marked } from "marked";

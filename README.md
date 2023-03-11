@@ -1,6 +1,6 @@
-# openai-telegram-bot
+# SMARTBODA
 
-openai telegram bot for private messages &amp; groups
+chatbot Telegeam Ai for private messages &amp; groups
 
 ## Update 2022/12/14
 
